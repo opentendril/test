@@ -1,0 +1,2 @@
+External Pollinator deterministic patch fixture
+qualification payload 20260928-220938-6c533e
